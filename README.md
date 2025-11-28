@@ -38,10 +38,14 @@ enhancement.Please zoom in for better details.
 
 ![alt text](figure/result1.png)
 
+</details>
+
 <details>
 <summary>Click to view detailed results in ive-degradation all-in-one task</summary>
 
 ![alt text](figure/result2.png)
+
+</details>
 
 <details>
 <summary>Click to view detailed results on the out-of-domain (OOD) real-world test set</summary>
